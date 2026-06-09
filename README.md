@@ -1,4 +1,4 @@
-<h1 align="center">Hey, soy Jahir Roblero 👋</h1>
+<h1 align="center">Hola, soy Jahir Roblero</h1>
 
 <h3 align="center">
   Ingeniero en Sistemas | Java Developer | Spring Boot | PostgreSQL | Full Stack
@@ -26,7 +26,7 @@
 
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Soy **Angel Jahir Gomez Roblero**, estudiante/ingeniero en sistemas enfocado en el desarrollo de software.
+Soy **Angel Jahir Gomez Roblero**, estudiante de ingenieria en sistemas enfocado en el desarrollo de software.
 
 Me gusta crear sistemas reales, aplicaciones web, backends con Java y proyectos completos usando bases de datos.
 
