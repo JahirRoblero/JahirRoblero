@@ -39,7 +39,7 @@ backend technologies and database systems.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
 </p>
 
 ### Backend
